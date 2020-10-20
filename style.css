@@ -1,0 +1,14 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+#header{
+height: 200vh;
+background-image: url(images/background.png;
+background-position: center;
+background-size: cover;
+}
+#container{
+margin-right: 100px;
+margin-left: 100px;
+}
